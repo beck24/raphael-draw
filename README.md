@@ -1,4 +1,4 @@
 raphael-draw
 ============
 
-Demo drawing interface based on the raphael library, supplemented with various jquery libs + some custom hacks
+Just playing around - not much to see here.  In any case, it's just a cobbling together of other peoples work.
